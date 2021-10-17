@@ -1,4 +1,4 @@
-#plugin const Shadow = require("../Utilis/events");
+const Shadow = require("../Utilis/events");
 const { forwardOrBroadCast } = require("../Utilis/groupmute");
 const { getBuffer } = require('../Utilis/download');
 const { parseJid } = require("../Utilis/vote");
